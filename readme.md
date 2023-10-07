@@ -10,7 +10,7 @@ Neste desafio vamos recriar um layout de uma pagina de viagens aplicandos os con
 
 ![preview](./.github/cover.png)
 
-👉🏼[Link do projeto]()
+👉🏼[Link do projeto](https://projeto-01-desafio-extra.vercel.app/)
 👉🏼[Layout da Aplicação](https://www.figma.com/file/afP3OfxSlZ6K2DKtlfwXsM/Projeto01-Extra-(Copy)?type=design&node-id=0-1&mode=design&t=hDewIdoSQhjwfD07-0)
 
 
